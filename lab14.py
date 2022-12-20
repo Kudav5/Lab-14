@@ -11,7 +11,7 @@ print(txt[-1])
 print(txt[2:5])
 
 # Hilangkan spasi pada text tersebut (HelloWorld)
-print(txt.lstrip())
+print(txt.replace(" ",""))
 
 # Ubah text menjadi huruf besar
 print(txt.upper())
