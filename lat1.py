@@ -1,5 +1,4 @@
 txt = 'Hello World'
-print(txt)
 
 print("Hitung jumlah karakternya: ",len(txt))
 print("Ambil karakter terakhir: ",txt[-1])
